@@ -33,11 +33,11 @@ While Tableau's SPC dashboard updated automatically, the Jupyter Notebook workfl
 - **Original Powertrain Dashboard**:
 
 ![Eight Image](https://github.com/Johnlee19990908/Streamlit_dashboard_TSLA/blob/main/Readme_image/3.png)
-- **SPC Dashboard**: The first Streamlit dashboard displayed aggregated SPC data in Tesla’s powertrain premises, providing comprehensive monitoring of bead measurements and allowing for rapid troubleshooting of failures.
+- **New -SPC Dashboard**: The first Streamlit dashboard displayed aggregated SPC data in Tesla’s powertrain premises, providing comprehensive monitoring of bead measurements and allowing for rapid troubleshooting of failures.
 
 ![Eight Image](https://github.com/Johnlee19990908/Streamlit_dashboard_TSLA/blob/main/Readme_image/4.png)
 ![Eight Image](https://github.com/Johnlee19990908/Streamlit_dashboard_TSLA/blob/main/Readme_image/5.png)
-- **FPY Dashboard**: The second dashboard focused on First Pass Yield (FPY) with additional tools like daily FPY tracking, pack zone heatmaps, and Pareto charts highlighting high-failure areas. It also included a date range filter, enabling engineers to analyze specific timeframes and assess the impact of process adjustments over time.
+- **New -FPY Dashboard**: The second dashboard focused on First Pass Yield (FPY) with additional tools like daily FPY tracking, pack zone heatmaps, and Pareto charts highlighting high-failure areas. It also included a date range filter, enabling engineers to analyze specific timeframes and assess the impact of process adjustments over time.
 
 ![Eight Image](https://github.com/Johnlee19990908/Streamlit_dashboard_TSLA/blob/main/Readme_image/6.png)
 ![Eight Image](https://github.com/Johnlee19990908/Streamlit_dashboard_TSLA/blob/main/Readme_image/7.png)
