@@ -59,6 +59,6 @@ While Tableau's SPC dashboard updated automatically, the Jupyter Notebook workfl
 5. **Yield Rate Improvement**: Using the dashboards, we identified improvement opportunities in zone 3, where Coherix sometimes scanned blank spots. By repositioning the imager further from the bead, we reduced these errors, potentially increasing the yield rate by 5-10%.
 
 
-#### **Summary**  
+## **Summary**  
 Overall, the dashboard has proven invaluable in saving time, providing actionable insights, and uncovering process improvements that enhance performance, contributing to more efficient and effective operations in the adhesive dispensing process.
 
